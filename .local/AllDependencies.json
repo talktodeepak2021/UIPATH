@@ -7577,9 +7577,9 @@
     "restore": {
       "projectUniqueName": "GITINTGRATION",
       "projectName": "GITINTGRATION",
-      "projectPath": "C:\\Users\\Deepak\\Documents\\UiPath\\GITINTGRATION\\.local",
+      "projectPath": "C:\\Users\\Deepak\\Documents\\UiPath\\personal\\.local",
       "packagesPath": "C:\\Users\\Deepak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Deepak\\Documents\\UiPath\\GITINTGRATION\\.local"
+      "outputPath": "C:\\Users\\Deepak\\Documents\\UiPath\\personal\\.local"
     },
     "frameworks": {
       "net461": {
